@@ -2,6 +2,8 @@
 
 Repositório para o projeto **OpenClaw** no Vercel — usado para configurar o subdomínio que aponta ao OpenClaw hospedado no Railway.
 
+**No monorepo Adventure Labs:** este repositório fica em `tools/openclaw` (submodule). Documentação de uso com WhatsApp e deploy no Railway: `tools/openclaw-whatsapp/`.
+
 ## Deploy no Vercel
 
 1. Conecte este repositório no [Vercel](https://vercel.com): **Add New Project** → **Import Git Repository** → selecione `openclaw`.
